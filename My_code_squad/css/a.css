@@ -1,0 +1,28 @@
+body {
+background-image: url("../a.png");
+background-repeat: no-repeat;
+background-color: #000000;
+margin-left:130;
+margin-right:130;
+
+}
+p{
+color:white;
+}
+.imgMiddle{
+margin:center;
+}
+.icon{
+width:18%;
+}
+.textMiddle{
+text-align:center;
+color:white;
+font-family:arial;
+}
+.heading{
+font-size:45;
+}
+.subHeading{
+font-size:23;
+}
