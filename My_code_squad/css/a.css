@@ -1,9 +1,9 @@
 body {
 background-image: url("../a.png");
 background-repeat: no-repeat;
-background-color: #000000;
-margin-left:130;
-margin-right:130;
+background-color: black;
+margin-left:12%;
+margin-right:40%;
 
 }
 p{
